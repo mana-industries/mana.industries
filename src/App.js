@@ -168,7 +168,7 @@ class App extends Component {
 
   render() {
     const {
-      appClass, bgStyle, backgroundMode, devIntro, devDesc, icons
+      appClass, bgStyle, backgroundMode, devIntro, devBio, devDesc, icons
     } = this.state;
 
     return (
