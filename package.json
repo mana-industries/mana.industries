@@ -1,7 +1,6 @@
 {
   "name": "My-Landing-Page",
   "version": "0.1.1",
-  "homepage": "https://singhkshitij.github.io",
   "private": true,
   "dependencies": {
     "react": "^16.8.4",
