@@ -178,6 +178,7 @@ class App extends Component {
           onClick={this.changeBackgroundBasedonMode}>
           <main className="App-main">
             <h1 className="intro">{ devIntro }</h1>
+            <h6 className="bio">{ devBio }</h6>
             <div className="tagline">
               <Typist>{ devDesc }</Typist>
             </div>
