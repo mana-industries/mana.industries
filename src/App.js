@@ -27,6 +27,7 @@ class App extends Component {
       backgroundType: Configs.backgroundType || 'plain',
       appClass: Configs.plainBackgroundMode || 'daylight',
       devIntro: Configs.devIntro || 'Lorem Ipsum',
+      devBio: Configs.devBio || 'Lorem Ipsum',
       devDesc:
         Configs.devDesc ||
         'Aute veniam ut deserunt cillum irure pariatur Lorem dolore anim nostrud quis veniam elit culpa.',
