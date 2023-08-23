@@ -2,7 +2,8 @@
   "backgroundType": "plain",
   "plainBackgroundMode": "daylight",
   "devIntro": "MANA Industries",
-  "devDesc": "Music | Entertainment | Promotion | Community\\nMANA TV | MANA Party\\nMANA Industries DBA MANA Group est. 2023",
+  "devBio": "DBA MANA Group est. 2023",
+  "devDesc": "MANA TV | Music | Entertainment | Promotion | Community",
   "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
   "backgroundImageUrl": "http://hdwpro.com/wp-content/uploads/2017/03/Art-Background-Image.png",
   "icons": [
