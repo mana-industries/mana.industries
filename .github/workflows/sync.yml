@@ -23,4 +23,4 @@ jobs:
           github_token: ${{ secrets.TEMPLATE_SYNC_TOKEN }}
           source_repo_path: natehouk/My-Landing-Page.git
           upstream_branch: master
-          pr_labels: chore, template
+          pr_labels: chore,template
